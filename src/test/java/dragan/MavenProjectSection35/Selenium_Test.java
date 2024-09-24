@@ -18,5 +18,11 @@ public class Selenium_Test {
 		System.out.println("elementUI");
 	}
 	
+	@Test
+	public void footerTest()
+	{
+		System.out.println("Ovo sam dodao sa II kompjutera --> footer test");
+	}
+	
 
 }
