@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T18:43:06 CEST" name="Suite" finished-at="2024-09-23T18:43:06 CEST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T18:43:06 CEST" name="Test" finished-at="2024-09-23T18:43:06 CEST" duration-ms="86">
+      <class name="dragan.MavenProjectSection35.Appium_Test">
+        <test-method signature="NativeAPpAndroid()[pri:0, instance:dragan.MavenProjectSection35.Appium_Test@3c407114]" started-at="2024-09-23T18:43:06 CEST" name="NativeAPpAndroid" finished-at="2024-09-23T18:43:06 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPpAndroid -->
+        <test-method signature="iOSApps()[pri:0, instance:dragan.MavenProjectSection35.Appium_Test@3c407114]" started-at="2024-09-23T18:43:06 CEST" name="iOSApps" finished-at="2024-09-23T18:43:06 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSApps -->
+      </class> <!-- dragan.MavenProjectSection35.Appium_Test -->
+      <class name="dragan.MavenProjectSection35.Selenium_Test">
+        <test-method signature="browserAutomation()[pri:0, instance:dragan.MavenProjectSection35.Selenium_Test@27ce24aa]" started-at="2024-09-23T18:43:06 CEST" name="browserAutomation" finished-at="2024-09-23T18:43:06 CEST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementUI()[pri:0, instance:dragan.MavenProjectSection35.Selenium_Test@27ce24aa]" started-at="2024-09-23T18:43:06 CEST" name="elementUI" finished-at="2024-09-23T18:43:06 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- dragan.MavenProjectSection35.Selenium_Test -->
+      <class name="dragan.MavenProjectSection35.RestAssured_Test$RestAPI_Test">
+        <test-method signature="deleteTwitter()[pri:0, instance:dragan.MavenProjectSection35.RestAssured_Test$RestAPI_Test@41fbdac4]" started-at="2024-09-23T18:43:06 CEST" name="deleteTwitter" finished-at="2024-09-23T18:43:06 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:dragan.MavenProjectSection35.RestAssured_Test$RestAPI_Test@41fbdac4]" started-at="2024-09-23T18:43:06 CEST" name="postJira" finished-at="2024-09-23T18:43:06 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- dragan.MavenProjectSection35.RestAssured_Test$RestAPI_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
